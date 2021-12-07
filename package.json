@@ -1,0 +1,23 @@
+{
+  "name": "retalappcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lerna run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinRetalapp/RetalappCore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
+  },
+  "homepage": "https://github.com/kevinRetalapp/RetalappCore#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
