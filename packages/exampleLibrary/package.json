@@ -1,11 +1,11 @@
 {
-  "name": "@retalappcomponents/testcdnretalapp",
+  "name": "@retalappcomponents/examplelibrary",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
-  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/testcdn#readme",
+  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/exampleLibrary#readme",
   "license": "ISC",
-  "main": "lib/testcdn.js",
+  "main": "lib/exampleLibrary.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
