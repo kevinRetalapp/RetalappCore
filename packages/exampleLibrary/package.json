@@ -1,5 +1,5 @@
 {
-  "name": "@retalappcomponents/examplelibrary",
+  "name": "@retalappcomponentes/examplelibrary",
   "version": "2.0.0",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
   },
-  "gitHead": "385c2674ddf1a75f9521d2442799dff0771957d6"
+  "gitHead": "670ff116be9e42a51bee8c42342091070423eab1"
 }
