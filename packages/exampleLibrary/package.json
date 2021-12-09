@@ -1,5 +1,8 @@
 {
   "name": "@retalappcomponentes/examplelibrary",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "3.0.0",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
   },
-  "gitHead": "83ed30870c21eca03d4da7a29c6116701eff738c"
+  "gitHead": "ae98b1b372d9f401b729e1e3c5403376517a9f04"
 }
