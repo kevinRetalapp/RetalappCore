@@ -1,6 +1,6 @@
 {
   "name": "@retalappcomponents/testcdnretalapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
   "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/testcdn#readme",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
-  }
+  },
+  "gitHead": "385c2674ddf1a75f9521d2442799dff0771957d6"
 }

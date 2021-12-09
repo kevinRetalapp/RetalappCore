@@ -1,11 +1,11 @@
 {
-  "name": "@retalappcomponents/examplelibrary",
+  "name": "@retalappcomponents/example",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
-  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/exampleLibrary#readme",
+  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/example#readme",
   "license": "ISC",
-  "main": "lib/exampleLibrary.js",
+  "main": "lib/example.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
-  },
-  "gitHead": "385c2674ddf1a75f9521d2442799dff0771957d6"
+  }
 }
