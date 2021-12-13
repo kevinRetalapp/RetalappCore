@@ -3,5 +3,5 @@
 module.exports = component;
 
 function component(a) {
-    return a
+    return a + 5;
 }
