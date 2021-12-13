@@ -1,11 +1,11 @@
-# `exampleone`
+# `component`
 
 > TODO: description
 
 ## Usage
 
 ```
-const exampleone = require('exampleone');
+const component = require('component');
 
 // TODO: DEMONSTRATE API
 ```

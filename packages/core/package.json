@@ -1,14 +1,11 @@
 {
-  "name": "@testretalapp/exampleone",
-  "publishConfig": {
-    "access": "public"
-  },
-  "version": "0.0.0",
+  "name": "coreretalapp",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
-  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/exampleone#readme",
+  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/core#readme",
   "license": "ISC",
-  "main": "lib/exampleone.js",
+  "main": "lib/core.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
