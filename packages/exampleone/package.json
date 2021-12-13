@@ -1,0 +1,29 @@
+{
+  "name": "@testretalapp/exampleone",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "kevinRetalapp <kevin.steven@retalapp.co>",
+  "homepage": "https://github.com/kevinRetalapp/RetalappCore/tree/main/packages/exampleone#readme",
+  "license": "ISC",
+  "main": "lib/exampleone.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinRetalapp/RetalappCore.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
+  }
+}
