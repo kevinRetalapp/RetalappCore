@@ -1,0 +1,1 @@
+!function(){"use strict";var r={240:function(r){r.exports={func:function(){return 5},func2:r=>r}}},t={};!function n(o){var u=t[o];if(void 0!==u)return u.exports;var e=t[o]={exports:{}};return r[o](e,e.exports,n),e.exports}(240)}();
