@@ -9,4 +9,6 @@ const func2 = (a) => {
     return a;
 }
 
+require('./css/styles.css')
+
 module.exports = {func,func2};

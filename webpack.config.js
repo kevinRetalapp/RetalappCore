@@ -1,7 +1,6 @@
 const path = require("path");
 const config = require('./config.templates')
 const {cssConfig,optimizeCss,resolve,production,pluginsCss} = config
-
 module.exports = [
   {
     entry: {
@@ -25,18 +24,18 @@ module.exports = [
       path: path.resolve(__dirname, "./packages/component/build/"),
       filename: "[name].js",
     },
-
     module: {
         rules: [
           {
             test: /\.(js)$/,
             exclude: /node_modules/,
             use: ['babel-loader']
-          }
+          },
+          { test: /\.css$/, use: 'css-loader' },
         ]
       },
     mode: production,
     resolve,
     
-  },
+  }
 ];
