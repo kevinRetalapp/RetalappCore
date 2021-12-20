@@ -1,5 +1,5 @@
 {
-  "name": "componentretalappchangename",
+  "name": "@kentruriretalapp/componentretalappchangename",
   "version": "8.0.0",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
   },
-  "gitHead": "0adddc28d5ae88adae1c95e210273728b795b041"
+  "gitHead": "de7199f3acc049967ba60b3b40d292af4de625cc"
 }
