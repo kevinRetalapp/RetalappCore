@@ -11,6 +11,7 @@
     ">0.1%",
     "last 4 versions"
   ],
+  "publishConfig": {"access": "public"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kevinRetalapp/RetalappCore.git"
