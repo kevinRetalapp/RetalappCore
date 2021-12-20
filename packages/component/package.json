@@ -1,5 +1,5 @@
 {
-  "name": "@othername/examplewithlerna1014",
+  "name": "@kentruriretalapp/componentwithretalapp",
   "version": "9.0.1",
   "description": "> TODO: description",
   "author": "kevinRetalapp <kevin.steven@retalapp.co>",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/kevinRetalapp/RetalappCore/issues"
   },
-  "gitHead": "de7199f3acc049967ba60b3b40d292af4de625cc"
+  "gitHead": "79382b5e1e3950881cb1204309b83f956ac32969"
 }
