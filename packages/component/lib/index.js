@@ -9,4 +9,5 @@ const func2 = (a) => {
     return a;
 }
 
+
 module.exports = {func,func2};
