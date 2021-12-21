@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://res.cloudinary.com/kentruri/image/upload/v1640101557/Logo_White_BG_mxbutd.png" alt="Retalapp logo" width="200" height="165">
+    <img src="https://res.cloudinary.com/kentruri/image/upload/v1640105021/Logo_White_BG_qrepsq.png" alt="Retalapp logo" width="200" height="165">
   </a>
 </p>
 
